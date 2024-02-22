@@ -10,7 +10,6 @@ const App = () => {
     <h2>helow </h2>
     <h2>helow </h2>
     <h2>helow </h2>
-    <h2>helow </h2>
    
    
 
